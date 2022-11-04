@@ -19,6 +19,10 @@ Apply data visualization techniques to identify the patterns of the data.
 
 # CODE
 ```
+Developed by: M.Hariharan
+Reg.No:212221230034
+```
+```
 import pandas as pd
 import numpy as np
 df=pd.read_csv("Superstore.csv")
@@ -128,8 +132,50 @@ plt.boxplot(x="Sales",data=df)
 plt.show()
 ```
 # OUPUT
+### Reading the Dataset
 ![](1.png)
-![](2.jpg)
+### Line Plot
+![](2.png)
+![](3.png)
+![](4.png)
+### Scatterplot
+![](5.png)
+![](6.png)
+![](7.png)
+### Box plot
+![](8.png)
+![](9.png)
+### Violin Plot
+![](10.png)
+### Bar Plot
+![](11.png)
+![](12.png)
+### Point Plot
+![](13.png)
+### Count Plot
+![](14.png)
+![](15.png)
+### Histogram
+![](16.png)
+### KDE Plot
+![](17.png)
+## Data Visualization using Matplotlib:
+### Plot
+![](18.png)
+### Heatmap
+![](19.png)
+### Piechart
+![](20.png)
+![](21.png)
+### Histogram
+![](22.png)
+### Bargraph
+![](23.png)
+### Scatterplot
+![](24.png)
+### Boxplot
+![](25.png)
+
 
 # RESULT
 Hence, Data Visualization is applied on the complex dataset using libraries like Seaborn and Matplotlib successfully and the data is saved to file.
